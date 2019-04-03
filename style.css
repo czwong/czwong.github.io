@@ -27,9 +27,11 @@ h3 {
 }
 
 @media (max-width: 480px) {
-    .large-image {
-      height: 310px;
-      width: 410px;
-      align-content: center;
+    .center-image {
+        align-content: center;
+    }
+
+    .navbar {
+        background-color: darkcyan;
     }
 }

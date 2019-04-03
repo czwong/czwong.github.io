@@ -1,0 +1,35 @@
+.font_size {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 40px;
+}
+
+body {
+    background-color: lightgrey;
+}
+
+table, th, td {
+    border: 1px black;
+  } 
+
+h1 {
+    color: darkcyan;
+    font-family: "Times New Roman", Times, serif;
+}
+
+h2 {
+    color: darkcyan;
+    font-family: "Times New Roman", Times, serif;
+}
+
+h3 {
+    color: darkcyan;
+    font-family: "Times New Roman", Times, serif;
+}
+
+@media (max-width: 480px) {
+    .large-image {
+      height: 310px;
+      width: 410px;
+      align-content: center;
+    }
+}
